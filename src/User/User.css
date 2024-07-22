@@ -1,0 +1,10 @@
+.main {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.main button {
+    width: 200px;
+    margin: auto;
+}
